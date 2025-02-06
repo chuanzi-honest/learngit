@@ -50,7 +50,7 @@ P8_1                                            GOOD RICE: FREE MARKET PRICE
                              .7         1       1.4       1.7         2
 
 ----------------------------------------------------------------------------
-P96_2                                  RICE COMMONLY USED: LARGE STORE PRICE
+P96_2  RICE COMMONLY USED: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -65,7 +65,7 @@ P96_2                                  RICE COMMONLY USED: LARGE STORE PRICE
                              .5        .9       1.3       1.5       1.7
 
 ----------------------------------------------------------------------------
-P8_2                                   RICE COMMONLY USED: FREE MARKET PRICE
+P8_2   RICE COMMONLY USED: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -80,7 +80,7 @@ P8_2                                   RICE COMMONLY USED: FREE MARKET PRICE
                              .6        .8       1.1       1.4       1.6
 
 ----------------------------------------------------------------------------
-P96_3                                      BLEACHED FLOUR: LARGE STORE PRICE
+P96_3  BLEACHED FLOUR: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -290,7 +290,7 @@ P8_9                                              SORGHUM: FREE MARKET PRICE
                             -9.9      -9.9        .8       1.3       1.8
 
 ----------------------------------------------------------------------------
-P97_1                                        RAPESEED OIL: LARGE STORE PRICE
+P97_1  RAPESEED OIL: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -440,7 +440,7 @@ P16_5                                             TEA OIL: FREE MARKET PRICE
                            -9.9      -9.9      -9.9         4         9
 
 ----------------------------------------------------------------------------
-P97_6                                         WHITE SUGAR: LARGE STORE PRICE
+P97_6  WHITE SUGAR: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -455,7 +455,7 @@ P97_6                                         WHITE SUGAR: LARGE STORE PRICE
                             1.4       1.8       2.3       2.7         3
 
 ----------------------------------------------------------------------------
-P16_6                                         WHITE SUGAR: FREE MARKET PRICE
+P16_6  WHITE SUGAR: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -470,7 +470,7 @@ P16_6                                         WHITE SUGAR: FREE MARKET PRICE
                             1.5       1.8       2.2       2.6         3
 
 ----------------------------------------------------------------------------
-P97_7                                                EGGS: LARGE STORE PRICE
+P97_7  EGGS: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -590,7 +590,7 @@ P16_0                                         REFINED OIL: FREE MARKET PRICE
                            -9.9      -9.9         4         5         7
 
 ----------------------------------------------------------------------------
-P98_1                                    GREEN VEGETABLES: LARGE STORE PRICE
+P98_1  GREEN VEGETABLES: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -605,7 +605,7 @@ P98_1                                    GREEN VEGETABLES: LARGE STORE PRICE
                             -9.9        .1        .5         1       1.5
 
 ----------------------------------------------------------------------------
-P24_1                                    GREEN VEGETABLES: FREE MARKET PRICE
+P24_1  GREEN VEGETABLES: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -620,7 +620,7 @@ P24_1                                    GREEN VEGETABLES: FREE MARKET PRICE
                              .2        .3        .5        .9       1.2
 
 ----------------------------------------------------------------------------
-P98_2                                             CABBAGE: LARGE STORE PRICE
+P98_2  CABBAGE: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -635,7 +635,7 @@ P98_2                                             CABBAGE: LARGE STORE PRICE
                             -9.9        .1        .4        .8       1.2
 
 ----------------------------------------------------------------------------
-P24_2                                             CABBAGE: FREE MARKET PRICE
+P24_2  CABBAGE: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -740,7 +740,7 @@ P24_5                                              ORANGE: FREE MARKET PRICE
                              .6        .9       1.1       1.5         2
 
 ----------------------------------------------------------------------------
-P99_1                                    PORK(FATTY&LEAN): LARGE STORE PRICE
+P99_1  PORK(FATTY&LEAN): LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -755,7 +755,7 @@ P99_1                                    PORK(FATTY&LEAN): LARGE STORE PRICE
                            -9.9       4.5         6       7.5       8.5
 
 ----------------------------------------------------------------------------
-P32_1                                    PORK(FATTY&LEAN): FREE MARKET PRICE
+P32_1  PORK(FATTY&LEAN): FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -800,7 +800,7 @@ P32_2                                          PORK(LEAN): FREE MARKET PRICE
                               4         6         7         9        10
 
 ----------------------------------------------------------------------------
-P99_3                                       CHICKEN(LIVE): LARGE STORE PRICE
+P99_3  CHICKEN(LIVE): LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -815,7 +815,7 @@ P99_3                                       CHICKEN(LIVE): LARGE STORE PRICE
                            -9.9      -9.9         4       6.5       8.5
 
 ----------------------------------------------------------------------------
-P32_3                                       CHICKEN(LIVE): FREE MARKET PRICE
+P32_3  CHICKEN(LIVE): FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -980,7 +980,7 @@ P48_1                                CONDENSED/SWEETENED MILK:FREE MKT PRICE
                            -9.9      -9.9         3         8      13.5
 
 ----------------------------------------------------------------------------
-P101_2                                WHOLE/POWDERED MILK: LARGE STORE PRICE
+P101_2  WHOLE/POWDERED MILK: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -995,7 +995,7 @@ P101_2                                WHOLE/POWDERED MILK: LARGE STORE PRICE
                            -9.9         9      12.4      16.9        21
 
 ----------------------------------------------------------------------------
-P48_2                                 WHOLE/POWDERED MILK: FREE MARKET PRICE
+P48_2  WHOLE/POWDERED MILK: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1070,7 +1070,7 @@ P48_4                                      INFANT FORMULA: FREE MARKET PRICE
                            -9.9       5.5        13        20        30
 
 ----------------------------------------------------------------------------
-P102_1                                        COMMON CARP: LARGE STORE PRICE
+P102_1  COMMON CARP: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1160,7 +1160,7 @@ P56_2A                                   SILVER CARP FISH: FREE MARKET PRICE
                            -9.9        .3       3.5       4.5       5.5
 
 ----------------------------------------------------------------------------
-P102_3                                FISH COMMONLY EATEN: LARGE STORE PRICE
+P102_3  FISH COMMONLY EATEN: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1220,7 +1220,7 @@ P64_1                                  BEAN CURD(PRESSED): FREE MARKET PRICE
                              .8       1.2       1.8       2.4         3
 
 ----------------------------------------------------------------------------
-P103_2                                          BEAN CURD: LARGE STORE PRICE
+P103_2  BEAN CURD: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1355,7 +1355,7 @@ P104_7                                               PIPED GAS: RETAIL PRICE
                             -9.9      -9.9      -9.9         1       2.5
 
 ----------------------------------------------------------------------------
-P104_8                                             ELECTRICITY: RETAIL PRICE
+P104_8  ELECTRICITY: RETAIL PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1460,7 +1460,7 @@ P91_2A                                 DOUBLE HAPPINESS CIGS: FREE MKT PRICE
                             -9.9      -9.9      -9.9         7       8.5
 
 ----------------------------------------------------------------------------
-P94_1                                    LOCAL CIGARETTES: LARGE STORE PRICE
+P94_1  LOCAL CIGARETTES: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1475,7 +1475,7 @@ P94_1                                    LOCAL CIGARETTES: LARGE STORE PRICE
                               1         2         3         5         6
 
 ----------------------------------------------------------------------------
-P91_1                                    LOCAL CIGARETTES: FREE MARKET PRICE
+P91_1  LOCAL CIGARETTES: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1490,7 +1490,7 @@ P91_1                                    LOCAL CIGARETTES: FREE MARKET PRICE
                             1.2         2       2.5         4         5
 
 ----------------------------------------------------------------------------
-P94_3                                          LOCAL BEER: LARGE STORE PRICE
+P94_3  LOCAL BEER: LARGE STORE PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1505,7 +1505,7 @@ P94_3                                          LOCAL BEER: LARGE STORE PRICE
                             1.1       1.5       1.8       2.5         3
 
 ----------------------------------------------------------------------------
-P91_3                                          LOCAL BEER: FREE MARKET PRICE
+P91_3  LOCAL BEER: FREE MARKET PRICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1820,7 +1820,7 @@ P91_13                                        JIAN LI BAO: FREE MARKET PRICE
                            -9.9         2       2.3       2.8       3.5
 
 ----------------------------------------------------------------------------
-commid                                                          COMMUNITY ID
+commid  COMMUNITY ID
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -1835,7 +1835,7 @@ commid                                                          COMMUNITY ID
                          212403    322203    412302    432402    521109
 
 ----------------------------------------------------------------------------
-wave                                                             SURVEY YEAR
+wave  SURVEY YEAR
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -10844,7 +10844,7 @@ P84                                 HOW PRICES WERE OBTAINED: (OTHERS--STATE
                         1,869  .
 
 ----------------------------------------------------------------------------
-T1                                                                  province
+T1  province
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)

@@ -1,0 +1,166 @@
+
+  ___  ____  ____  ____  ____ ®
+ /__    /   ____/   /   ____/      18.0
+___/   /   /___/   /   /___/       MP—Parallel Edition
+
+ Statistics and Data Science       Copyright 1985-2023 StataCorp LLC
+                                   StataCorp
+                                   4905 Lakeway Drive
+                                   College Station, Texas 77845 USA
+                                   800-STATA-PC        https://www.stata.com
+                                   979-696-4600        stata@stata.com
+
+Stata license: Single-user 2-core  perpetual
+Serial number: 501806366047
+  Licensed to: zing
+               zing
+
+Notes:
+      1. Stata is running in batch mode.
+      2. Unicode is supported; see help unicode_advice.
+      3. More than 2 billion observations are allowed; see help
+          obs_advice.
+      4. Maximum number of variables is set to 5,000 but can be increased;
+          see help set_maxvar.
+
+. do tempCodeRunnerFile.do 
+
+. * 加载第一个数据文件
+.   use "/Users/zingli/Downloads/公路数据/chns社区数据1989-2015/CHNS_1989-20
+> 152015社区数据（stata格式）/$temp/1m07comfm_merge.dta", clear
+
+.   * 定义需要合并的文件列表
+.   local files 2m16comfp 3m07comin 5m16hlth1 6m16hlth2
+
+.   * 初始化计数器
+.   local merge_counter 1
+
+.   * 循环合并其他文件
+.   foreach file in `files' {
+  2.       * 合并数据
+.       merge 1:1 commid wave using "/Users/zingli/Downloads/公路数据/chns社
+> 区数据1989-2015/CHNS_1989-20152015社区数据（stata格式）/$temp/`file'_merge
+> .dta"
+  3.       * 重命名 _merge 变量
+.       rename _merge _merge`merge_counter'
+  4.       * 增加计数器
+.       local merge_counter = `merge_counter' + 1
+  5.   }
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                            46
+        from master                        21  (_merge==1)
+        from using                         25  (_merge==2)
+
+    Matched                             1,817  (_merge==3)
+    -----------------------------------------
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                            31
+        from master                        31  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                             1,832  (_merge==3)
+    -----------------------------------------
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                           824
+        from master                       781  (_merge==1)
+        from using                         43  (_merge==2)
+
+    Matched                             1,082  (_merge==3)
+    -----------------------------------------
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                           185
+        from master                       185  (_merge==1)
+        from using                          0  (_merge==2)
+
+    Matched                             1,721  (_merge==3)
+    -----------------------------------------
+
+.       label variable health_facility_num "HEALTH FACILITY NUMBER //卫生设
+> 施数量"
+
+.       label variable full_time_western_doctors "FULL TIME WESTERN DOCTORS 
+> //全职西医医生数量"
+
+.       label variable adjunct_western_doctors "ADJUNCT WESTERN DOCTORS //兼
+> 职西医医生数量"
+
+.       label variable full_time_traditional_doctors "FULL TIME TRADITIONAL 
+> DOCTORS //全职中医医生数量"
+
+.       label variable adjunct_traditional_doctors "ADJUNCT TRADITIONAL DOCT
+> ORS //兼职中医医生数量"
+
+.       label variable gov_paid_staff_percentage "PERCENTAGE OF STAFF SALARI
+> ES PAID BY GOV //工资由政府支付的员工比例"
+
+.       label variable total_patient_beds "TOTAL PATIENT BEDS //病床总数"
+
+.       label variable facility_opendays_perweek "DAYS FACILITY OPEN PER WEE
+> K //设施每周开放的天数"
+
+.       label variable full_time_rural_doctors "FULL TIME RURAL DOCTORS //全
+> 职农村医生数量"
+
+.       label variable adjunct_rural_doctors "ADJUNCT RURAL DOCTORS //兼职农
+> 村医生数量"
+
+.       label variable full_time_dentists "FULL TIME DENTISTS //全职牙医数量
+> "
+
+.       label variable adjunct_dentists "ADJUNCT DENTISTS //兼职牙医数量"
+
+.       label variable full_time_nurses "FULL TIME NURSES //全职护士数量"
+
+.       label variable adjunct_nurses "ADJUNCT NURSES //兼职护士数量"
+
+.       label variable facility_num "FACILITY NUMBER //健康服务设施数量"
+
+.       label variable facility_type "FACILITY TYPE //设施类型 1=村诊所 2=私
+> 人诊所 3=单位诊所 4=其他诊所 5-乡计生服务机构 6=乡医院 7=县妇幼保健院 8=县
+> 医院 9=市妇幼保健院 10=市医院 11=职工医院 12=其他医院 13=药店 15=其他"
+note: label truncated to 80 characters
+
+.       label variable facility_location "FACILITY LOCATION //设施地点 1=在
+> 本村/居 2=在本市另一居 3=在另一个村/镇/县 9=从不购买/没有此类"
+
+.       label variable facility_distance "FACILITY DISTANCE(KM) //设施距离km
+> "
+
+.       label variable facility_business_hours "FACILITY BUSINESS HOURS (HOU
+> RS/WEEK) //设施每周营业时间"
+
+.       label variable facility_doctors_num "FACILITY # OF DOCTORS //设施医
+> 生数量"  // 这些数据 看看用其他变量填补进去
+
+.       label variable facility_beds_num "FACILITY # OF HOSPITAL BEDS //设施
+> 病床数量"
+
+.       label variable facility_registration_fee "FACILITY REGISTRATION FEE 
+> (YUAN) //设施挂号费"
+
+.       label variable facility_most_used "MOST OFTEN USED? //2004年以来（调
+> 查年10年前）最常用的设施是否被取代？ 1=是 2=否"
+
+. save "/Users/zingli/learngit/chnscomm/chnscomm_mergeraw.dta", replace
+(file /Users/zingli/learngit/chnscomm/chnscomm_mergeraw.dta not found)
+file /Users/zingli/learngit/chnscomm/chnscomm_mergeraw.dta saved
+
+. save "/Users/zingli/Downloads/公路数据/chns社区数据1989-2015/CHNS_1989-201
+> 52015社区数据（stata格式）/chnscomm_mergeraw.dta", replace
+(file
+    /Users/zingli/Downloads/公路数据/chns社区数据1989-2015/CHNS_1989-20152
+    > 015社区数据（stata格式）/chnscomm_mergeraw.dta not found)
+file
+    /Users/zingli/Downloads/公路数据/chns社区数据1989-2015/CHNS_1989-20152
+    > 015社区数据（stata格式）/chnscomm_mergeraw.dta saved
+
+. 
+end of do-file

@@ -5,7 +5,7 @@
  opened on:   1 Feb 2025, 09:07:05
 
 ----------------------------------------------------------------------------
-Q1                                                    HEALTH FACILITY NUMBER
+Q1        HEALTH FACILITY NUMBER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -40,7 +40,7 @@ Q2                                                          TYPE OF FACILITY
                               1         2         3         9        11
 
 ----------------------------------------------------------------------------
-Q7_1                                               FULL TIME WESTERN DOCTORS
+Q7_1    FULL TIME WESTERN DOCTORS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -55,7 +55,7 @@ Q7_1                                               FULL TIME WESTERN DOCTORS
                               0         1         7        42       136
 
 ----------------------------------------------------------------------------
-Q8_1                                                 ADJUNCT WESTERN DOCTORS
+Q8_1    ADJUNCT WESTERN DOCTORS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -70,7 +70,7 @@ Q8_1                                                 ADJUNCT WESTERN DOCTORS
                               0         0         0         0         2
 
 ----------------------------------------------------------------------------
-Q7_2                                           FULL TIME TRADITIONAL DOCTORS
+Q7_2    FULL TIME TRADITIONAL DOCTORS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -85,7 +85,7 @@ Q7_2                                           FULL TIME TRADITIONAL DOCTORS
                               0         0         2         8        18
 
 ----------------------------------------------------------------------------
-Q8_2                                             ADJUNCT TRADITIONAL DOCTORS
+Q8_2      ADJUNCT TRADITIONAL DOCTORS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -100,7 +100,7 @@ Q8_2                                             ADJUNCT TRADITIONAL DOCTORS
                               0         0         0         0         0
 
 ----------------------------------------------------------------------------
-Q7_3                                          FULL TIME ASST WESTERN DOCTORS
+Q7_3  FULL TIME ASST WESTERN DOCTORS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -197,7 +197,7 @@ Q9B                                             HOW IS DOCTOR'S SALARY PAID?
                         2,094  .
 
 ----------------------------------------------------------------------------
-Q9                                  PERCENTAGE OF STAFF SALARIES PAID BY GOV
+Q9   PERCENTAGE OF STAFF SALARIES PAID BY GOV
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -257,7 +257,7 @@ Q11                                                      TOTAL PATIENT ROOMS
                              0         1        10        55       158
 
 ----------------------------------------------------------------------------
-Q12                                                       TOTAL PATIENT BEDS
+Q12    TOTAL PATIENT BEDS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -398,7 +398,7 @@ Q21                                        DEPT OF OPTHALMOLOGY IN HOSPITAL?
                           885  .
 
 ----------------------------------------------------------------------------
-Q26_1                               DOES FACILITY PROVIDE INJECTIONS OF PENI
+Q26_1 DOES FACILITY PROVIDE INJECTIONS OF PENI
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -412,7 +412,7 @@ Q26_1                               DOES FACILITY PROVIDE INJECTIONS OF PENI
                           270  .
 
 ----------------------------------------------------------------------------
-Q26_2                               DOES FACILITY PROVIDE INTRAMUSCULAR INJE
+Q26_2  DOES FACILITY PROVIDE INTRAMUSCULAR INJE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -426,7 +426,7 @@ Q26_2                               DOES FACILITY PROVIDE INTRAMUSCULAR INJE
                           268  .
 
 ----------------------------------------------------------------------------
-Q26_4                                    DOES FACILITY PROVIDE CHEST X-RAYS?
+Q26_4     DOES FACILITY PROVIDE CHEST X-RAYS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -440,7 +440,7 @@ Q26_4                                    DOES FACILITY PROVIDE CHEST X-RAYS?
                           301  .
 
 ----------------------------------------------------------------------------
-Q26_5                                DOES FACILITY PROVIDE ULTRASOUND OF THE
+Q26_5   DOES FACILITY PROVIDE ULTRASOUND OF THE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -454,7 +454,7 @@ Q26_5                                DOES FACILITY PROVIDE ULTRASOUND OF THE
                           318  .
 
 ----------------------------------------------------------------------------
-Q26_6                                 DOES FACILITY PROVIDE PRENATAL VISITS?
+Q26_6      DOES FACILITY PROVIDE PRENATAL VISITS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -468,7 +468,7 @@ Q26_6                                 DOES FACILITY PROVIDE PRENATAL VISITS?
                           298  .
 
 ----------------------------------------------------------------------------
-Q26_7                                DOES FACILITY PROVIDE NORMAL CHILDBIRTH
+Q26_7   DOES FACILITY PROVIDE NORMAL CHILDBIRTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -482,7 +482,7 @@ Q26_7                                DOES FACILITY PROVIDE NORMAL CHILDBIRTH
                           294  .
 
 ----------------------------------------------------------------------------
-Q26_8                               DOES FACILITY PROVIDE CAESAREAN SECTIONS
+Q26_8  DOES FACILITY PROVIDE CAESAREAN SECTIONS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -496,7 +496,7 @@ Q26_8                               DOES FACILITY PROVIDE CAESAREAN SECTIONS
                           316  .
 
 ----------------------------------------------------------------------------
-Q26_9                                  DOES FACILITY PROVIDE APPENDECTOMIES?
+Q26_9    DOES FACILITY PROVIDE APPENDECTOMIES?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -554,7 +554,7 @@ Q26_12                              DOES FACILITY PROVIDE PRIVATE ROOM IN-PA
                         1,087  .
 
 ----------------------------------------------------------------------------
-Q27_1                               INSURED CHARGE FOR INJECTIONS OF PENICIL
+Q27_1   INSURED CHARGE FOR INJECTIONS OF PENICIL
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -914,7 +914,7 @@ Q28_12                              SELF-PAY CHARGE FOR PRIVATE ROOM INPATIE
                               2         3         5         9        15
 
 ----------------------------------------------------------------------------
-Q29                                 DOES FACILITY OFFER FAMILY PLANNING/CONT
+Q29  DOES FACILITY OFFER FAMILY PLANNING/CONT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -928,7 +928,7 @@ Q29                                 DOES FACILITY OFFER FAMILY PLANNING/CONT
                           514  .
 
 ----------------------------------------------------------------------------
-Q31_1                               DOES FACILITY PROVIDE FEMALE STERILIZATI
+Q31_1  DOES FACILITY PROVIDE FEMALE STERILIZATI
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -956,7 +956,7 @@ Q31_2                                       DOES FACILITY PROVIDE VASECTOMY?
                           739  .
 
 ----------------------------------------------------------------------------
-Q31_3                               DOES FACILITY PROVIDE CONTRACEPTIVE PILL
+Q31_3  DOES FACILITY PROVIDE CONTRACEPTIVE PILL
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1193,7 +1193,7 @@ Q33_6                                           SELF-PAY CHARGE FOR ABORTION
                             3.5         6        10        15        30
 
 ----------------------------------------------------------------------------
-Q34_1                               YEAR FACILITY BEGAN FEMALE STERILIZATION
+Q34_1  YEAR FACILITY BEGAN FEMALE STERILIZATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1378,7 +1378,7 @@ O18_1                               H-FAC LINE#(O18) FROM INFRASTRUCTUR SRVY
                               1         1         2         2         4
 
 ----------------------------------------------------------------------------
-Q4_1                                      DOES FACILITY SERVE SAMPLING UNIT?
+Q4_1 DOES FACILITY SERVE SAMPLING UNIT?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1392,7 +1392,7 @@ Q4_1                                      DOES FACILITY SERVE SAMPLING UNIT?
                           508  .
 
 ----------------------------------------------------------------------------
-Q5_1                                KILOMETERS FROM FACILITY TO CENTER OF SA
+Q5_1   KILOMETERS FROM FACILITY TO CENTER OF SA
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1442,7 +1442,7 @@ Q4_2                                      DOES FACILITY SERVE SAMPLING UNIT?
                         1,109  .
 
 ----------------------------------------------------------------------------
-Q5_2                                KILOMETERS FROM FACILITY TO CENTER OF SA
+Q5_2     KILOMETERS FROM FACILITY TO CENTER OF SA
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1492,7 +1492,7 @@ Q4_3                                      DOES FACILITY SERVE SAMPLING UNIT?
                         1,155  .
 
 ----------------------------------------------------------------------------
-Q5_3                                KILOMETERS FROM FACILITY TO CENTER OF SA
+Q5_3  KILOMETERS FROM FACILITY TO CENTER OF SA
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1580,7 +1580,7 @@ Q21B                                 DEPT OF WESTERN/TRADITIONAL MEDICINE IN
                         1,450  .
 
 ----------------------------------------------------------------------------
-Q22                                          CRITICAL CARE UNIT IN HOSPITAL?
+Q22    CRITICAL CARE UNIT IN HOSPITAL?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1594,7 +1594,7 @@ Q22                                          CRITICAL CARE UNIT IN HOSPITAL?
                           887  .
 
 ----------------------------------------------------------------------------
-Q23                                              DAYS FACILITY OPEN PER WEEK
+Q23    DAYS FACILITY OPEN PER WEEK
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1624,7 +1624,7 @@ Q24                                              HOURS FACILITY OPEN PER DAY
                               8         8        12        24        24
 
 ----------------------------------------------------------------------------
-Q7_15                                           FULL TIME PREVENTION WORKERS
+Q7_15     FULL TIME PREVENTION WORKERS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1660,7 +1660,7 @@ Q8_15                                             ADJUNCT PREVENTION WORKERS
                           820  .
 
 ----------------------------------------------------------------------------
-Q7_14                                                     FULL TIME MIDWIVES
+Q7_14      FULL TIME MIDWIVES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1693,7 +1693,7 @@ Q8_14                                                       ADJUNCT MIDWIVES
                           858  .
 
 ----------------------------------------------------------------------------
-Q8_13                                                 ADJUNCT HEALTH WORKERS
+Q8_13     ADJUNCT HEALTH WORKERS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1708,7 +1708,7 @@ Q8_13                                                 ADJUNCT HEALTH WORKERS
                               0         0         0         0         0
 
 ----------------------------------------------------------------------------
-Q7_13                                               FULL TIME HEALTH WORKERS
+Q7_13   FULL TIME HEALTH WORKERS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1723,7 +1723,7 @@ Q7_13                                               FULL TIME HEALTH WORKERS
                               0         0         0         1         6
 
 ----------------------------------------------------------------------------
-Q7_12                                                FULL TIME RURAL DOCTORS
+Q7_12   FULL TIME RURAL DOCTORS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1756,7 +1756,7 @@ Q8_12                                                  ADJUNCT RURAL DOCTORS
                           856  .
 
 ----------------------------------------------------------------------------
-Q7_11                                                     FULL TIME DENTISTS
+Q7_11  FULL TIME DENTISTS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1854,7 +1854,7 @@ Q8_9                                                     ADJUNCT PHARMACISTS
                           846  .
 
 ----------------------------------------------------------------------------
-Q7_8                                                   FULL TIME NURSE AIDES
+Q7_8    FULL TIME NURSE AIDES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1886,7 +1886,7 @@ Q8_8                                                     ADJUNCT NURSE AIDES
                           870  .
 
 ----------------------------------------------------------------------------
-Q7_7                                                        FULL TIME NURSES
+Q7_7    FULL TIME NURSES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)

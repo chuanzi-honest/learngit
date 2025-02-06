@@ -20,7 +20,7 @@ T7_CO                                                         INTERVIEW DATE
                         2.0e+07   2.0e+07   2.0e+07   2.0e+07   2.0e+07
 
 ----------------------------------------------------------------------------
-O1A                                                  ADMIN DISTRICT: IN 2000
+O1A  ADMIN DISTRICT: IN 2000
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -37,7 +37,7 @@ O1A                                                  ADMIN DISTRICT: IN 2000
                           376  .
 
 ----------------------------------------------------------------------------
-O1B                                      ADMIN DISTRICT: CHANGED SINCE 2000?
+O1B   ADMIN DISTRICT: CHANGED SINCE 2000?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -113,7 +113,7 @@ O257                                   YEAR COMM. GEOGRAPHIC BOUNDRY CHANGED
                            1998      2001      2002      2004      2005
 
 ----------------------------------------------------------------------------
-O258                                      VILLAGE/N'HOOD POPULATION IN 1989?
+O258  VILLAGE/N'HOOD POPULATION IN 1989?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -128,7 +128,7 @@ O258                                      VILLAGE/N'HOOD POPULATION IN 1989?
                            -9999     -9999       870      2016      4013
 
 ----------------------------------------------------------------------------
-O259                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1989?
+O259  VILLAGE/N'HOOD AREA (SQ KM) IN 1989?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -143,7 +143,7 @@ O259                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1989?
                           -99.99    -99.99      1.23         4     10.05
 
 ----------------------------------------------------------------------------
-O260                                      VILLAGE/N'HOOD POPULATION IN 1991?
+O260  VILLAGE/N'HOOD POPULATION IN 1991?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -158,7 +158,7 @@ O260                                      VILLAGE/N'HOOD POPULATION IN 1991?
                            -9999     -9999       879      2078      4121
 
 ----------------------------------------------------------------------------
-O261                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1991?
+O261  VILLAGE/N'HOOD AREA (SQ KM) IN 1991?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -173,7 +173,7 @@ O261                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1991?
                          -99.99    -99.99     1.255         4       9.8
 
 ----------------------------------------------------------------------------
-O262                                      VILLAGE/N'HOOD POPULATION IN 1993?
+O262  VILLAGE/N'HOOD POPULATION IN 1993?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -188,7 +188,7 @@ O262                                      VILLAGE/N'HOOD POPULATION IN 1993?
                            -9999     -9999       974      2106      4500
 
 ----------------------------------------------------------------------------
-O263                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1993?
+O263  VILLAGE/N'HOOD AREA (SQ KM) IN 1993?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -203,7 +203,7 @@ O263                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1993?
                          -99.99    -99.99      1.23         4         9
 
 ----------------------------------------------------------------------------
-O264                                      VILLAGE/N'HOOD POPULATION IN 1997?
+O264  VILLAGE/N'HOOD POPULATION IN 1997?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -218,7 +218,7 @@ O264                                      VILLAGE/N'HOOD POPULATION IN 1997?
                           -9999     -9999      1214      2305      4800
 
 ----------------------------------------------------------------------------
-O265                                    VILLAGE/N'HOOD AREA (SQ KM) IN 1997?
+O265  VILLAGE/N'HOOD AREA (SQ KM) IN 1997?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -293,7 +293,7 @@ O269                                    VILLAGE/N'HOOD AREA (SQ KM) IN 2004?
                          -99.99        .5     1.975      4.55        13
 
 ----------------------------------------------------------------------------
-O0A                                  # OF HOUSEHOLDS IN NEIGHBORHOOD/VILLAGE
+O0A  # OF HOUSEHOLDS IN NEIGHBORHOOD/VILLAGE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -308,7 +308,7 @@ O0A                                  # OF HOUSEHOLDS IN NEIGHBORHOOD/VILLAGE
                             209       320       534       998      2045
 
 ----------------------------------------------------------------------------
-O270                                           COUNTY/CITY TOTAL POPULATION?
+O270  COUNTY/CITY TOTAL POPULATION?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -323,7 +323,7 @@ O270                                           COUNTY/CITY TOTAL POPULATION?
                          340230    498855    749685   1.3e+06   3.5e+06
 
 ----------------------------------------------------------------------------
-O271                                         COUNTY/CITY TOTAL AREA (SQ KM)?
+O271  COUNTY/CITY TOTAL AREA (SQ KM)?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -338,7 +338,7 @@ O271                                         COUNTY/CITY TOTAL AREA (SQ KM)?
                             957      1345      2065   3528.77      6634
 
 ----------------------------------------------------------------------------
-O9K                                   SUB/VILL: LOCATED IN A MODEL TOWNSHIP?
+O9K  SUB/VILL: LOCATED IN A MODEL TOWNSHIP?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -352,7 +352,7 @@ O9K                                   SUB/VILL: LOCATED IN A MODEL TOWNSHIP?
                         1,122  .
 
 ----------------------------------------------------------------------------
-O9L                                        SUB/VILL: LEVEL OF MODEL TOWNSHIP
+O9L   SUB/VILL: LEVEL OF MODEL TOWNSHIP
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -368,7 +368,7 @@ O9L                                        SUB/VILL: LEVEL OF MODEL TOWNSHIP
                         1,803  .
 
 ----------------------------------------------------------------------------
-O9M_1                                    TYPE OF MODEL TWP: ECON DEVELOPMENT
+O9M_1  TYPE OF MODEL TWP: ECON DEVELOPMENT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -382,7 +382,7 @@ O9M_1                                    TYPE OF MODEL TWP: ECON DEVELOPMENT
                         1,890  .
 
 ----------------------------------------------------------------------------
-O9M_2                                     TYPE OF MODEL TWP: ENVI/SANITATION
+O9M_2  TYPE OF MODEL TWP: ENVI/SANITATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -397,7 +397,7 @@ O9M_2                                     TYPE OF MODEL TWP: ENVI/SANITATION
                         1,892  .
 
 ----------------------------------------------------------------------------
-O9M_3                                     TYPE OF MODEL TWP: FAMILY PLANNING
+O9M_3  TYPE OF MODEL TWP: FAMILY PLANNING
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -411,7 +411,7 @@ O9M_3                                     TYPE OF MODEL TWP: FAMILY PLANNING
                         1,892  .
 
 ----------------------------------------------------------------------------
-O9M_4                                      TYPE OF MODEL TWP: ADMINISTRITIVE
+O9M_4  TYPE OF MODEL TWP: ADMINISTRITIVE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -426,7 +426,7 @@ O9M_4                                      TYPE OF MODEL TWP: ADMINISTRITIVE
                         1,892  .
 
 ----------------------------------------------------------------------------
-O9M_5                                               TYPE OF MODEL TWP: OTHER
+O9M_5  TYPE OF MODEL TWP: OTHER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -441,7 +441,7 @@ O9M_5                                               TYPE OF MODEL TWP: OTHER
                         1,892  .
 
 ----------------------------------------------------------------------------
-O9N                                  SUB/VILL: AVG PER CAPITA INCOME IN 2001
+O9N  SUB/VILL: AVG PER CAPITA INCOME IN 2001
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -456,7 +456,7 @@ O9N                                  SUB/VILL: AVG PER CAPITA INCOME IN 2001
                             800      1450      2058      2883      3870
 
 ----------------------------------------------------------------------------
-O9O                                  SUB/VILL: AVG PER CAPITA INCOME IN 2002
+O9O  SUB/VILL: AVG PER CAPITA INCOME IN 2002
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -471,7 +471,7 @@ O9O                                  SUB/VILL: AVG PER CAPITA INCOME IN 2002
                             870      1580      2290      3075      4200
 
 ----------------------------------------------------------------------------
-O9P                                  SUB/VILL: AVG PER CAPITA INCOME IN 2003
+O9P  SUB/VILL: AVG PER CAPITA INCOME IN 2003
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -486,7 +486,7 @@ O9P                                  SUB/VILL: AVG PER CAPITA INCOME IN 2003
                            1000      1680      2407      3306      4377
 
 ----------------------------------------------------------------------------
-O47A                                       WAGE/DAY FOR ORDINARY MALE WORKER
+O47A  WAGE/DAY FOR ORDINARY MALE WORKER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (float)
@@ -517,7 +517,7 @@ O47B                                      FOOD FREE TO ORDINARY MALE WORKER?
                           231  .
 
 ----------------------------------------------------------------------------
-O47C                                     WAGE/DAY FOR ORDINARY FEMALE WORKER
+O47C  WAGE/DAY FOR ORDINARY FEMALE WORKER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -547,7 +547,7 @@ O47D                                    FOOD FREE TO ORDINARY FEMALE WORKER?
                           239  .
 
 ----------------------------------------------------------------------------
-O272                                    WAGE/DAY FOR PRIMARY SCHOOL TEACHER?
+O272  WAGE/DAY FOR PRIMARY SCHOOL TEACHER?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -607,7 +607,7 @@ O275                                     FOOD FREE TO MIDDLE SCHOOL TEACHER?
                         1,170  .
 
 ----------------------------------------------------------------------------
-O48                                    WAGE/DAY FOR BABYSITTING OR CHILDCARE
+O48  WAGE/DAY FOR BABYSITTING OR CHILDCARE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -637,7 +637,7 @@ O48A                                       FOOD FREE TO BABYSITTERS/NANNIES?
                           699  .
 
 ----------------------------------------------------------------------------
-O49                                  WAGE/DAY FOR ORDINARY CONSTRUCTN WORKER
+O49  WAGE/DAY FOR ORDINARY CONSTRUCTN WORKER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -667,7 +667,7 @@ O50                                 FOOD FREE TO ORDINARY CONSTRUCTN WORKER?
                            88  .
 
 ----------------------------------------------------------------------------
-O51                                    WAGE/MONTH FOR LOCAL WORK UNIT DRIVER
+O51  WAGE/MONTH FOR LOCAL WORK UNIT DRIVER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -682,7 +682,7 @@ O51                                    WAGE/MONTH FOR LOCAL WORK UNIT DRIVER
                             150       350       750      1000      1500
 
 ----------------------------------------------------------------------------
-O40                                 NEAR OPEN TRADE AREA/CITY(< 2HR BY BUS)?
+O40  NEAR OPEN TRADE AREA/CITY(< 2HR BY BUS)?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -696,7 +696,7 @@ O40                                 NEAR OPEN TRADE AREA/CITY(< 2HR BY BUS)?
                            34  .
 
 ----------------------------------------------------------------------------
-O42                                      % WORK FORCE ENGAGED IN AGRICULTURE
+O42  % WORK FORCE ENGAGED IN AGRICULTURE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -711,7 +711,7 @@ O42                                      % WORK FORCE ENGAGED IN AGRICULTURE
                               0         0        40        70        90
 
 ----------------------------------------------------------------------------
-O43                                         % WORKING OUTSIDE TOWN > 1 MONTH
+O43  % WORKING OUTSIDE TOWN > 1 MONTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -726,7 +726,7 @@ O43                                         % WORKING OUTSIDE TOWN > 1 MONTH
                               1         7        20        35        60
 
 ----------------------------------------------------------------------------
-O44                                  % WORKING IN ENTERPRISE WITH 20+ PEOPLE
+O44  % WORKING IN ENTERPRISE WITH 20+ PEOPLE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -741,7 +741,7 @@ O44                                  % WORKING IN ENTERPRISE WITH 20+ PEOPLE
                               0         4        15        50        80
 
 ----------------------------------------------------------------------------
-O45                                 % WORKING IN ENTERPRISE WITH < 20 PEOPLE
+O45  % WORKING IN ENTERPRISE WITH < 20 PEOPLE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -756,7 +756,7 @@ O45                                 % WORKING IN ENTERPRISE WITH < 20 PEOPLE
                               0         2        10        20        40
 
 ----------------------------------------------------------------------------
-O52                                 ENTERPRISE: ANY LOCALLY-RUN COLLECTIVES?
+O52  ENTERPRISE: ANY LOCALLY-RUN COLLECTIVES?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -770,7 +770,7 @@ O52                                 ENTERPRISE: ANY LOCALLY-RUN COLLECTIVES?
                            25  .
 
 ----------------------------------------------------------------------------
-O53                                    ENTERPRISE: # LOCALLY-RUN COLLECTIVES
+O53  ENTERPRISE: # LOCALLY-RUN COLLECTIVES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -785,7 +785,7 @@ O53                                    ENTERPRISE: # LOCALLY-RUN COLLECTIVES
                               1         1         3         7        15
 
 ----------------------------------------------------------------------------
-O63                                          ENTERPRISE: % RUN AS COLLECTIVE
+O63  ENTERPRISE: % RUN AS COLLECTIVE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -800,7 +800,7 @@ O63                                          ENTERPRISE: % RUN AS COLLECTIVE
                               0         0        10        50       100
 
 ----------------------------------------------------------------------------
-O64_1                               SUB/VILL: REVENUES FUND HOUSING SUBSIDY?
+O64_1  SUB/VILL: REVENUES FUND HOUSING SUBSIDY?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -815,7 +815,7 @@ O64_1                               SUB/VILL: REVENUES FUND HOUSING SUBSIDY?
                         1,471  .
 
 ----------------------------------------------------------------------------
-O65_1                               SUB/VILL: % REVENUES USED FR HOUSING SUB
+O65_1  SUB/VILL: % REVENUES USED FR HOUSING SUB
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -830,7 +830,7 @@ O65_1                               SUB/VILL: % REVENUES USED FR HOUSING SUB
                               0       .06        10        11        15
 
 ----------------------------------------------------------------------------
-O64_2                               SUB/VILL: REVENUES FUND HEALTH INSURNCE?
+O64_2  SUB/VILL: REVENUES FUND HEALTH INSURNCE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -845,7 +845,7 @@ O64_2                               SUB/VILL: REVENUES FUND HEALTH INSURNCE?
                         1,475  .
 
 ----------------------------------------------------------------------------
-O65_2                               SUB/VILL: % REVENUES USED FOR HLTH INSUR
+O65_2  SUB/VILL: % REVENUES USED FOR HLTH INSUR
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -860,7 +860,7 @@ O65_2                               SUB/VILL: % REVENUES USED FOR HLTH INSUR
                             .01        .6         3        10        20
 
 ----------------------------------------------------------------------------
-O64_3                                SUB/VILL: REVENUES FUND EDUCATION SUBS?
+O64_3  SUB/VILL: REVENUES FUND EDUCATION SUBS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -875,7 +875,7 @@ O64_3                                SUB/VILL: REVENUES FUND EDUCATION SUBS?
                         1,473  .
 
 ----------------------------------------------------------------------------
-O65_3                                 SUB/VILL: % REVENUES USED FOR EDUC SUB
+O65_3 SUB/VILL: % REVENUES USED FOR EDUC SUB
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -890,7 +890,7 @@ O65_3                                 SUB/VILL: % REVENUES USED FOR EDUC SUB
                             .05         1         5        15        25
 
 ----------------------------------------------------------------------------
-O64_4                                    SUB/VILL: REVENUES FUND IRRIGATION?
+O64_4  SUB/VILL: REVENUES FUND IRRIGATION?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -920,7 +920,7 @@ O65_4                               SUB/VILL: % REVENUES USED FOR IRRIGATION
                              .5       1.5         6        15        20
 
 ----------------------------------------------------------------------------
-O64_5                                   SUB/VILL: REVENUES FUND ROAD REPAIR?
+O64_5 SUB/VILL: REVENUES FUND ROAD REPAIR?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -935,7 +935,7 @@ O64_5                                   SUB/VILL: REVENUES FUND ROAD REPAIR?
                         1,473  .
 
 ----------------------------------------------------------------------------
-O65_5                               SUB/VILL: % REVENUES USED FR ROAD REPAIR
+O65_5    SUB/VILL: % REVENUES USED FR ROAD REPAIR
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -950,7 +950,7 @@ O65_5                               SUB/VILL: % REVENUES USED FR ROAD REPAIR
                              .5         2         5        19        30
 
 ----------------------------------------------------------------------------
-O64_6                                   SUB/VILL: REVENUES FUND FARM INPUTS?
+O64_6 SUB/VILL: REVENUES FUND FARM INPUTS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -965,7 +965,7 @@ O64_6                                   SUB/VILL: REVENUES FUND FARM INPUTS?
                         1,477  .
 
 ----------------------------------------------------------------------------
-O65_6                               SUB/VILL: % REVENUES USED FR FARM INPUTS
+O65_6  SUB/VILL: % REVENUES USED FR FARM INPUTS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -980,7 +980,7 @@ O65_6                               SUB/VILL: % REVENUES USED FR FARM INPUTS
                             .04         2         9        15        30
 
 ----------------------------------------------------------------------------
-O64_7                                      SUB/VILL: REVENUES FUND PENSIONS?
+O64_7    SUB/VILL: REVENUES FUND PENSIONS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1010,7 +1010,7 @@ O65_7                                 SUB/VILL: % REVENUES USED FOR PENSIONS
                              .1         1         5        10        30
 
 ----------------------------------------------------------------------------
-O64_8                                 SUB/VILL: REVENUES FUND GRAIN SUBSIDY?
+O64_8   SUB/VILL: REVENUES FUND GRAIN SUBSIDY?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1070,7 +1070,7 @@ O65_9                               SUB/VILL: % REVENUES USED FR ELECTRC SUB
                             .01        .5         2        10        15
 
 ----------------------------------------------------------------------------
-O54                                 SUB/VILL: ENTERPRISE:# OF SPECIALIZED HH
+O54  SUB/VILL: ENTERPRISE:# OF SPECIALIZED HH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1085,7 +1085,7 @@ O54                                 SUB/VILL: ENTERPRISE:# OF SPECIALIZED HH
                               0         0         4        18        50
 
 ----------------------------------------------------------------------------
-O56                                  ENTERPRISE: # SELF-EMPLOYED ENTERPRISES
+O56   ENTERPRISE: # SELF-EMPLOYED ENTERPRISES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1100,7 +1100,7 @@ O56                                  ENTERPRISE: # SELF-EMPLOYED ENTERPRISES
                               0         3        15        50       150
 
 ----------------------------------------------------------------------------
-O56A                                    ENTERPRISE: # OF PRIVATE ENTERPRISES
+O56A  ENTERPRISE: # OF PRIVATE ENTERPRISES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1115,7 +1115,7 @@ O56A                                    ENTERPRISE: # OF PRIVATE ENTERPRISES
                               0         0         3        11        35
 
 ----------------------------------------------------------------------------
-O57                                             FARMLAND: IS THERE FARMLAND?
+O57  FARMLAND: IS THERE FARMLAND?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1174,7 +1174,7 @@ O57C                                    FARMLAND: % UNDER COLLECTIVE PLOWING
                               0         0         0         0        90
 
 ----------------------------------------------------------------------------
-O276                                          HOW MANY FAST FOOD RESTURANTS?
+O276  HOW MANY FAST FOOD RESTURANTS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1189,7 +1189,7 @@ O276                                          HOW MANY FAST FOOD RESTURANTS?
                               0         0         0         0         0
 
 ----------------------------------------------------------------------------
-O60                                      ENTERPRISE: # OF INDOOR RESTAURANTS
+O60  ENTERPRISE: # OF INDOOR RESTAURANTS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1204,7 +1204,7 @@ O60                                      ENTERPRISE: # OF INDOOR RESTAURANTS
                               0         0         3        10        25
 
 ----------------------------------------------------------------------------
-O61                                  ENTERPRISE: # FIXED OUTDOOR FOOD STALLS
+O61  ENTERPRISE: # FIXED OUTDOOR FOOD STALLS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1219,7 +1219,7 @@ O61                                  ENTERPRISE: # FIXED OUTDOOR FOOD STALLS
                               0         0         2        10        22
 
 ----------------------------------------------------------------------------
-O62                                   ENTERPRISE: # MOBILE COOKED-FOOD CARTS
+O62    ENTERPRISE: # MOBILE COOKED-FOOD CARTS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1234,7 +1234,7 @@ O62                                   ENTERPRISE: # MOBILE COOKED-FOOD CARTS
                               0         0         1         6        15
 
 ----------------------------------------------------------------------------
-O277                                  # BAKERIES/VENDORS SELLING BREAD/BRFK?
+O277      # BAKERIES/VENDORS SELLING BREAD/BRFK?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1324,7 +1324,7 @@ O282                                                       # INTERNET CAFES?
                               0         0         0         2       6.5
 
 ----------------------------------------------------------------------------
-O67A_1                              PRIVATE CHILDCARE (AGE<3Y):IN COMMUNITY?
+O67A_1    PRIVATE CHILDCARE (AGE<3Y):IN COMMUNITY?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1338,7 +1338,7 @@ O67A_1                              PRIVATE CHILDCARE (AGE<3Y):IN COMMUNITY?
                           758  .
 
 ----------------------------------------------------------------------------
-O68A_1                              PRIVATE CHILDCARE (AGE<3Y): DISTANCE(KM)
+O68A_1    PRIVATE CHILDCARE (AGE<3Y): DISTANCE(KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1353,7 +1353,7 @@ O68A_1                              PRIVATE CHILDCARE (AGE<3Y): DISTANCE(KM)
                              .4         1         2         6        15
 
 ----------------------------------------------------------------------------
-O69A_1                                 PRIVATE CHILDCARE (AGE<3Y): FEE/MONTH
+O69A_1   PRIVATE CHILDCARE (AGE<3Y): FEE/MONTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1368,7 +1368,7 @@ O69A_1                                 PRIVATE CHILDCARE (AGE<3Y): FEE/MONTH
                              40        70       100       180       250
 
 ----------------------------------------------------------------------------
-O67A_2                              PRIVATE CHILDCARE(AGE 3-6Y):IN COMMUNTY?
+O67A_2    PRIVATE CHILDCARE(AGE 3-6Y):IN COMMUNTY?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1397,7 +1397,7 @@ O68A_2                                PRIVATE CHILDCARE (AGE 3-6Y): DIST(KM)
                              .3        .5         1         3         8
 
 ----------------------------------------------------------------------------
-O69A_2                               PRIVATE CHILDCARE (AGE 3-6Y): FEE/MONTH
+O69A_2    PRIVATE CHILDCARE (AGE 3-6Y): FEE/MONTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1412,7 +1412,7 @@ O69A_2                               PRIVATE CHILDCARE (AGE 3-6Y): FEE/MONTH
                              30        50       100       150       250
 
 ----------------------------------------------------------------------------
-O76                                      SUB/VILL:PRE-SCH IN PRI-SCH:IN VIL?
+O76     SUB/VILL:PRE-SCH IN PRI-SCH:IN VIL?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1445,7 +1445,7 @@ O76A                                      SUB/VILL:PRE-SCHIN PRI-SCH:MIN AGE
                         1,565  .
 
 ----------------------------------------------------------------------------
-O77                                       SUB/VILL:PRE-SCHIN PRI-SCH:CHARGE?
+O77   SUB/VILL:PRE-SCHIN PRI-SCH:CHARGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1459,7 +1459,7 @@ O77                                       SUB/VILL:PRE-SCHIN PRI-SCH:CHARGE?
                         1,301  .
 
 ----------------------------------------------------------------------------
-O78A                                     SUB/VILL:PRE-SCH IN PRI-SCH:FEE/SEM
+O78A   SUB/VILL:PRE-SCH IN PRI-SCH:FEE/SEM
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -1474,7 +1474,7 @@ O78A                                     SUB/VILL:PRE-SCH IN PRI-SCH:FEE/SEM
                              60       100       150       200       320
 
 ----------------------------------------------------------------------------
-O79                                       PUBLIC PRIMARY SCHOOL: IN VILLAGE?
+O79   PUBLIC PRIMARY SCHOOL: IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1489,7 +1489,7 @@ O79                                       PUBLIC PRIMARY SCHOOL: IN VILLAGE?
                           198  .
 
 ----------------------------------------------------------------------------
-O80                                      PUBLIC PRIMARY SCHOOL: DISTANCE(KM)
+O80    PUBLIC PRIMARY SCHOOL: DISTANCE(KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1504,7 +1504,7 @@ O80                                      PUBLIC PRIMARY SCHOOL: DISTANCE(KM)
                              .02        .5         1       1.2         2
 
 ----------------------------------------------------------------------------
-O81                                  PUBLIC LOWER-MIDDLE SCHOOL: IN VILLAGE?
+O81  PUBLIC LOWER-MIDDLE SCHOOL: IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1518,7 +1518,7 @@ O81                                  PUBLIC LOWER-MIDDLE SCHOOL: IN VILLAGE?
                           196  .
 
 ----------------------------------------------------------------------------
-O82                                 PUBLIC LOWER-MIDDLE SCHOOL: DISTANCE(KM)
+O82  PUBLIC LOWER-MIDDLE SCHOOL: DISTANCE(KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1533,7 +1533,7 @@ O82                                 PUBLIC LOWER-MIDDLE SCHOOL: DISTANCE(KM)
                               .3        .6       1.5       2.5         5
 
 ----------------------------------------------------------------------------
-O83                                  PUBLIC UPPER-MIDDLE SCHOOL: IN VILLAGE?
+O83 PUBLIC UPPER-MIDDLE SCHOOL: IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1562,7 +1562,7 @@ O84                                 PUBLIC UPPER-MIDDLE SCHOOL: DISTANCE(KM)
                              .5         1         3         9        20
 
 ----------------------------------------------------------------------------
-O85                                           VOCATIONAL SCHOOL: IN VILLAGE?
+O85   VOCATIONAL SCHOOL: IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1591,7 +1591,7 @@ O86                                          VOCATIONAL SCHOOL: DISTANCE(KM)
                              .5         2         5        15        30
 
 ----------------------------------------------------------------------------
-O283_1                                      GRAINS: TYPE OF POPULAR LG STORE
+O283_1   GRAINS: TYPE OF POPULAR LG STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1609,7 +1609,7 @@ O283_1                                      GRAINS: TYPE OF POPULAR LG STORE
                         1,198  .
 
 ----------------------------------------------------------------------------
-O13A_1                               GRAINS: LOCATION OF POPULAR LARGE STORE
+O13A_1    GRAINS: LOCATION OF POPULAR LARGE STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1625,7 +1625,7 @@ O13A_1                               GRAINS: LOCATION OF POPULAR LARGE STORE
                           996  .
 
 ----------------------------------------------------------------------------
-O14A_1                              GRAINS: DISTANCE(KM) TO POPULAR LG STORE
+O14A_1   GRAINS: DISTANCE(KM) TO POPULAR LG STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -1640,7 +1640,7 @@ O14A_1                              GRAINS: DISTANCE(KM) TO POPULAR LG STORE
                               0         0         1         2       4.5
 
 ----------------------------------------------------------------------------
-O283_2                                 COOKING OIL: TYPE OF POPULAR LG STORE
+O283_2 COOKING OIL: TYPE OF POPULAR LG STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -1787,7 +1787,7 @@ O14A_3A                             FRUITS: DISTANCE(KM) TO POPULAR LG STORE
                               0         0         1         2         5
 
 ----------------------------------------------------------------------------
-O283_4                              MEAT/POULTRY: TYPE OF TO POPULAR LG STOR
+O283_4     MEAT/POULTRY: TYPE OF TO POPULAR LG STOR
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2230,7 +2230,7 @@ O14A_13                             SOFT DNKS: DIST.(KM) TO POPULAR LG STORE
                               0         0        .5         2      4.25
 
 ----------------------------------------------------------------------------
-O284                                 SUPER/HYPERMKTS WITHIN 30-MIN BUS RIDE?
+O284    SUPER/HYPERMKTS WITHIN 30-MIN BUS RIDE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2245,7 +2245,7 @@ O284                                 SUPER/HYPERMKTS WITHIN 30-MIN BUS RIDE?
                               0         0         2         5        10
 
 ----------------------------------------------------------------------------
-O285                                SUPER/HYPERMKTS LOC. FOR MOST RESIDENTS?
+O285        SUPER/HYPERMKTS LOC. FOR MOST RESIDENTS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2261,7 +2261,7 @@ O285                                SUPER/HYPERMKTS LOC. FOR MOST RESIDENTS?
                         1,156  .
 
 ----------------------------------------------------------------------------
-O286                                       SUPER/HYPERMARKETS DISTANCE (KM)?
+O286  SUPER/HYPERMARKETS DISTANCE (KM)?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -2384,7 +2384,7 @@ O293                                ASIAN OWNED SUPER/HYPERMARKET DIST (KM)?
                               1       2.7         8        32        45
 
 ----------------------------------------------------------------------------
-O294                                FOOD RETAILERS OUT OF BUSINESS IN 3 YRS?
+O294   FOOD RETAILERS OUT OF BUSINESS IN 3 YRS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2399,7 +2399,7 @@ O294                                FOOD RETAILERS OUT OF BUSINESS IN 3 YRS?
                               0         0         3        12        40
 
 ----------------------------------------------------------------------------
-O295                                      NEW SUPER/HYPERMARKETS IN 3 YEARS?
+O295        NEW SUPER/HYPERMARKETS IN 3 YEARS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2594,7 +2594,7 @@ O307                                           FRESH COWS MILK: FREE MARKET?
                         1,166  .
 
 ----------------------------------------------------------------------------
-O16_1                                GRAINS: LOCATION OF POPULAR FREE MARKET
+O16_1    GRAINS: LOCATION OF POPULAR FREE MARKET
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2611,7 +2611,7 @@ O16_1                                GRAINS: LOCATION OF POPULAR FREE MARKET
                           183  .
 
 ----------------------------------------------------------------------------
-O17_1                               GRAINS: DISTANCE(KM) TO POPULAR FREE MKT
+O17_1  GRAINS: DISTANCE(KM) TO POPULAR FREE MKT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -2626,7 +2626,7 @@ O17_1                               GRAINS: DISTANCE(KM) TO POPULAR FREE MKT
                               0         0        .5       1.5         4
 
 ----------------------------------------------------------------------------
-O17A_1                                 GRAINS: # OF DAYS/WK FREE MARKET OPEN
+O17A_1  GRAINS: # OF DAYS/WK FREE MARKET OPEN
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2646,7 +2646,7 @@ O17A_1                                 GRAINS: # OF DAYS/WK FREE MARKET OPEN
                           446  .
 
 ----------------------------------------------------------------------------
-O308_1                                 GRAINS: BUY MORE OFTEN AT FREE MARKET
+O308_1   GRAINS: BUY MORE OFTEN AT FREE MARKET
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2660,7 +2660,7 @@ O308_1                                 GRAINS: BUY MORE OFTEN AT FREE MARKET
                         1,218  .
 
 ----------------------------------------------------------------------------
-O16_2                                 COOKING OIL: LOCATION OF POPULAR F-MKT
+O16_2     COOKING OIL: LOCATION OF POPULAR F-MKT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2726,7 +2726,7 @@ O308_2                               COOKING OIL: BUY MORE OFTEN AT FREE MKT
                         1,212  .
 
 ----------------------------------------------------------------------------
-O16_3                               VEGETABLES: LOCATION OF POPULAR FREE MKT
+O16_3    VEGETABLES: LOCATION OF POPULAR FREE MKT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -2743,7 +2743,7 @@ O16_3                               VEGETABLES: LOCATION OF POPULAR FREE MKT
                            82  .
 
 ----------------------------------------------------------------------------
-O17_3                               VEGETABLES: DIST(KM) TO POPULAR FREE MKT
+O17_3    VEGETABLES: DIST(KM) TO POPULAR FREE MKT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -3057,7 +3057,7 @@ O308_6                                  PRESERVED MILK: BUY MOST AT FREE MKT
                         1,347  .
 
 ----------------------------------------------------------------------------
-O16_7                                  FISH: LOCATION OF POPULAR FREE MARKET
+O16_7     FISH: LOCATION OF POPULAR FREE MARKET
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3074,7 +3074,7 @@ O16_7                                  FISH: LOCATION OF POPULAR FREE MARKET
                            73  .
 
 ----------------------------------------------------------------------------
-O17_7                                 FISH: DISTANCE(KM) TO POPULAR FREE MKT
+O17_7       FISH: DISTANCE(KM) TO POPULAR FREE MKT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -3456,7 +3456,7 @@ O308_13                              SOFT DRINKS: BUY MORE OFTEN AT FREE MKT
                         1,262  .
 
 ----------------------------------------------------------------------------
-O309                                   # OF FREE MARKETS IN 30-MIN BUS RIDE?
+O309      # OF FREE MARKETS IN 30-MIN BUS RIDE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3471,7 +3471,7 @@ O309                                   # OF FREE MARKETS IN 30-MIN BUS RIDE?
                               1         1         2         4         9
 
 ----------------------------------------------------------------------------
-O310                                        LOCATION OF NEAREST FREE MARKET?
+O310    LOCATION OF NEAREST FREE MARKET?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3487,7 +3487,7 @@ O310                                        LOCATION OF NEAREST FREE MARKET?
                         1,159  .
 
 ----------------------------------------------------------------------------
-O311                                                DISTANCE TO FREE MARKET?
+O311     DISTANCE TO FREE MARKET?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -3727,7 +3727,7 @@ O326                                SUPER/HYPERMKT/SNACKS & CANDY: SQ METERS
                              15        30        60        90        99
 
 ----------------------------------------------------------------------------
-O327                                               ANY FAST FOOD RESTURANTS?
+O327    ANY FAST FOOD RESTURANTS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3742,7 +3742,7 @@ O327                                               ANY FAST FOOD RESTURANTS?
                         1,156  .
 
 ----------------------------------------------------------------------------
-O248_1                                         FAST FOOD LOCATION: MCDONALDS
+O248_1  FAST FOOD LOCATION: MCDONALDS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3773,7 +3773,7 @@ O249_1                                         FAST FOOD DISTANCE: MCDONALDS
                              .3         1         2        10        44
 
 ----------------------------------------------------------------------------
-O248_2                                               FAST FOOD LOCATION: KFC
+O248_2   FAST FOOD LOCATION: KFC
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3899,7 +3899,7 @@ O249_4                                          FAST FOOD DISTANCE: OTHER #2
                               0       .05         1       2.5        30
 
 ----------------------------------------------------------------------------
-O250                                   CLOSEST GYM/EXERCISE CENTER: LOCATION
+O250   CLOSEST GYM/EXERCISE CENTER: LOCATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -3915,7 +3915,7 @@ O250                                   CLOSEST GYM/EXERCISE CENTER: LOCATION
                           782  .
 
 ----------------------------------------------------------------------------
-O251                                CLOSEST GYM/EXERCISE CENTER:DISTANCE(KM)
+O251  CLOSEST GYM/EXERCISE CENTER:DISTANCE(KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -3930,7 +3930,7 @@ O251                                CLOSEST GYM/EXERCISE CENTER:DISTANCE(KM)
                               0        .5       2.5        15        38
 
 ----------------------------------------------------------------------------
-O252                                    CLOSEST PARK/ENTERTNMT CTR: LOCATION
+O252  CLOSEST PARK/ENTERTNMT CTR: LOCATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4051,7 +4051,7 @@ O333                                PARK/PUBLIC REC FAC: SPECIAL SPORTS FAC?
                         1,454  .
 
 ----------------------------------------------------------------------------
-O334                                LOCATION: NEAREST VILL/N'HOOD PLAYGROUND
+O334    LOCATION: NEAREST VILL/N'HOOD PLAYGROUND
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4168,7 +4168,7 @@ O341                                 PLAYGROUND REC FAC: SPECIAL SPORTS FAC?
                         1,487  .
 
 ----------------------------------------------------------------------------
-O254                                FEWER PEOPLE BIKE TO WORK THAN LST SURVE
+O254     FEWER PEOPLE BIKE TO WORK THAN LST SURVE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4183,7 +4183,7 @@ O254                                FEWER PEOPLE BIKE TO WORK THAN LST SURVE
                           751  .
 
 ----------------------------------------------------------------------------
-O255_1                                            WHY STOP BIKING: POLLUTION
+O255_1   WHY STOP BIKING: POLLUTION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4213,7 +4213,7 @@ O255_2                                     WHY STOP BIKING: TOO MUCH TRAFFIC
                         1,543  .
 
 ----------------------------------------------------------------------------
-O255_3                                     WHY STOP BIKING: FEWER BIKE LANES
+O255_3    WHY STOP BIKING: FEWER BIKE LANES
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4228,7 +4228,7 @@ O255_3                                     WHY STOP BIKING: FEWER BIKE LANES
                         1,543  .
 
 ----------------------------------------------------------------------------
-O255_3A                                    WHY STOP BIKING: NOW USE CAR/TAXI
+O255_3A        WHY STOP BIKING: NOW USE CAR/TAXI
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4243,7 +4243,7 @@ O255_3A                                    WHY STOP BIKING: NOW USE CAR/TAXI
                         1,543  .
 
 ----------------------------------------------------------------------------
-O255_4                                         WHY STOP BIKING: OTHER REASON
+O255_4  WHY STOP BIKING: OTHER REASON
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4258,7 +4258,7 @@ O255_4                                         WHY STOP BIKING: OTHER REASON
                         1,549  .
 
 ----------------------------------------------------------------------------
-O23                                           MOST COMMON KIND OF LOCAL ROAD
+O23   MOST COMMON KIND OF LOCAL ROAD
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4274,7 +4274,7 @@ O23                                           MOST COMMON KIND OF LOCAL ROAD
                            68  .
 
 ----------------------------------------------------------------------------
-O23A                                       ANY STONE, GRAVEL OR PAVED ROADS?
+O23A      ANY STONE, GRAVEL OR PAVED ROADS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4290,7 +4290,7 @@ O23A                                       ANY STONE, GRAVEL OR PAVED ROADS?
                         1,666  .
 
 ----------------------------------------------------------------------------
-O24                                    DIST(KM) TO NEAREST GRAVEL/PAVED ROAD
+O24    DIST(KM) TO NEAREST GRAVEL/PAVED ROAD
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -4305,7 +4305,7 @@ O24                                    DIST(KM) TO NEAREST GRAVEL/PAVED ROAD
                               0        .2         1         3         5
 
 ----------------------------------------------------------------------------
-O25                                                       TELEGRAPH SERVICE?
+O25     TELEGRAPH SERVICE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4320,7 +4320,7 @@ O25                                                       TELEGRAPH SERVICE?
                            26  .
 
 ----------------------------------------------------------------------------
-O26                                                       TELEPHONE SERVICE?
+O26      TELEPHONE SERVICE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4334,7 +4334,7 @@ O26                                                       TELEPHONE SERVICE?
                             5  .
 
 ----------------------------------------------------------------------------
-O342                                     VILLAGE/N'HOOD SERVICE: CELL PHONE?
+O342       VILLAGE/N'HOOD SERVICE: CELL PHONE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4348,7 +4348,7 @@ O342                                     VILLAGE/N'HOOD SERVICE: CELL PHONE?
                         1,156  .
 
 ----------------------------------------------------------------------------
-O343                                       VILLAGE/N'HOOD SERVICE: INTERNET?
+O343  VILLAGE/N'HOOD SERVICE: INTERNET?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4363,7 +4363,7 @@ O343                                       VILLAGE/N'HOOD SERVICE: INTERNET?
                         1,156  .
 
 ----------------------------------------------------------------------------
-O26A                                     VILLAGE/N'HOOD SERVICE: FAX SERVICE
+O26A      VILLAGE/N'HOOD SERVICE: FAX SERVICE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4378,7 +4378,7 @@ O26A                                     VILLAGE/N'HOOD SERVICE: FAX SERVICE
                           195  .
 
 ----------------------------------------------------------------------------
-O27                                                          POSTAL SERVICE?
+O27  POSTAL SERVICE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4393,7 +4393,7 @@ O27                                                          POSTAL SERVICE?
                             8  .
 
 ----------------------------------------------------------------------------
-O28                                  REC'V DAILY NEWSPAPER ON DAY PUBLISHED?
+O28   REC'V DAILY NEWSPAPER ON DAY PUBLISHED?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4423,7 +4423,7 @@ O29                                                           MOVIE THEATER?
                             9  .
 
 ----------------------------------------------------------------------------
-O30                                                             ELECTRICITY?
+O30        ELECTRICITY?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4437,7 +4437,7 @@ O30                                                             ELECTRICITY?
                             6  .
 
 ----------------------------------------------------------------------------
-O31                                 AVG # HRS/DAY ELECTRICAL POWER AVAILABLE
+O31  AVG # HRS/DAY ELECTRICAL POWER AVAILABLE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4452,7 +4452,7 @@ O31                                 AVG # HRS/DAY ELECTRICAL POWER AVAILABLE
                              21        24        24        24        24
 
 ----------------------------------------------------------------------------
-O32                                   AVG # DAYS/WK ELECTRICAL POWER CUT OFF
+O32       AVG # DAYS/WK ELECTRICAL POWER CUT OFF
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -4467,7 +4467,7 @@ O32                                   AVG # DAYS/WK ELECTRICAL POWER CUT OFF
                               0         0         0        .5         2
 
 ----------------------------------------------------------------------------
-O33                                                                BUS STOP?
+O33        BUS STOP?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4496,7 +4496,7 @@ O34                                         DISTANCE(KM) TO NEAREST BUS STOP
                              .1        .5       1.5         3         7
 
 ----------------------------------------------------------------------------
-O344                                      BUS SERVE THIS BUS STOP (MINUTES)?
+O344        BUS SERVE THIS BUS STOP (MINUTES)?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -4511,7 +4511,7 @@ O344                                      BUS SERVE THIS BUS STOP (MINUTES)?
                               5        10        15        30        60
 
 ----------------------------------------------------------------------------
-O35                                                           TRAIN STATION?
+O35       TRAIN STATION?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4525,7 +4525,7 @@ O35                                                           TRAIN STATION?
                            13  .
 
 ----------------------------------------------------------------------------
-O36                                    DISTANCE(KM) TO NEAREST TRAIN STATION
+O36     DISTANCE(KM) TO NEAREST TRAIN STATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -4540,7 +4540,7 @@ O36                                    DISTANCE(KM) TO NEAREST TRAIN STATION
                               2         5        25      74.5       175
 
 ----------------------------------------------------------------------------
-O37                                                            PUBLIC BATHS?
+O37        PUBLIC BATHS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4569,7 +4569,7 @@ O38                                      DISTANCE(KM) TO NEAREST PUBLIC BATH
                              .2         1         2       7.5        23
 
 ----------------------------------------------------------------------------
-O39                                                  NEAR A NAVIGABLE RIVER?
+O39      NEAR A NAVIGABLE RIVER?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4583,7 +4583,7 @@ O39                                                  NEAR A NAVIGABLE RIVER?
                            36  .
 
 ----------------------------------------------------------------------------
-O8CB_0                                  SUB/VILL: COMMERCIAL INSURANCE: HAS?
+O8CB_0      SUB/VILL: COMMERCIAL INSURANCE: HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4613,7 +4613,7 @@ O8CC_0                              SUB/VILL: COMMRCL INSURANCE:YR 1ST AVAIL
                            -999      -999      -999      1996      2000
 
 ----------------------------------------------------------------------------
-O8CB_1                                  SUB/VILL: FREE MEDICAL SERVICE: HAS?
+O8CB_1     SUB/VILL: FREE MEDICAL SERVICE: HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4767,7 +4767,7 @@ O8CC_5                              SUB/VILL: UNIFD PLAN MEDSRV:YR 1ST AVAIL
                            -999      -999      -999      1999      2001
 
 ----------------------------------------------------------------------------
-O8CB_6                              SUB/VILL: HLTH INS WOMEN & CHILDREN:HAS?
+O8CB_6     SUB/VILL: HLTH INS WOMEN & CHILDREN:HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4797,7 +4797,7 @@ O8CC_6                              SUB/VILL: HLTH INS WOM&CHLD:YR 1ST AVAIL
                            -999      -999      1988      1999      2005
 
 ----------------------------------------------------------------------------
-O8CB_7                                SUB/VILL: EPI INSUR FOR CHILDREN: HAS?
+O8CB_7      SUB/VILL: EPI INSUR FOR CHILDREN: HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4857,7 +4857,7 @@ O8CC_8                               SUB/VILL: OTHER INSURANCE: YR 1ST AVAIL
                            1989      1994      2002      2005      2011
 
 ----------------------------------------------------------------------------
-O21E                                     ANY NEW FACILITY OPENED SINCE 1989?
+O21E     ANY NEW FACILITY OPENED SINCE 1989?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4871,7 +4871,7 @@ O21E                                     ANY NEW FACILITY OPENED SINCE 1989?
                           865  .
 
 ----------------------------------------------------------------------------
-O236A                               ANY FACILITY CLOSED/REPLACED SINCE 1989?
+O236A     ANY FACILITY CLOSED/REPLACED SINCE 1989?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -4983,7 +4983,7 @@ wave                                                             SURVEY YEAR
                            1991      1993      2004      2009      2015
 
 ----------------------------------------------------------------------------
-O0                                        POPULATION OF NEIGHBORHOOD/VILLAGE
+O0      POPULATION OF NEIGHBORHOOD/VILLAGE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -4998,7 +4998,7 @@ O0                                        POPULATION OF NEIGHBORHOOD/VILLAGE
                             750      1150      1868      3185      6058
 
 ----------------------------------------------------------------------------
-O2                                          CITY NGHBRHD: POPULATION OF CITY
+O2        CITY NGHBRHD: POPULATION OF CITY
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -5013,7 +5013,7 @@ O2                                          CITY NGHBRHD: POPULATION OF CITY
                           47093    329329    520000   1.7e+06   5.7e+06
 
 ----------------------------------------------------------------------------
-O8A                                                         TOWN: POPULATION
+O8A  TOWN: POPULATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (long)
@@ -5043,7 +5043,7 @@ O9M                                         SUB/VILL: TYPE OF MODEL TOWNSHIP
                Warning: Variable has leading and trailing blanks.
 
 ----------------------------------------------------------------------------
-O13A_9                               FABRIC: LOCATION OF POPULAR LARGE STORE
+O13A_9  FABRIC: LOCATION OF POPULAR LARGE STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5059,7 +5059,7 @@ O13A_9                               FABRIC: LOCATION OF POPULAR LARGE STORE
                         1,623  .
 
 ----------------------------------------------------------------------------
-O14A_9                              FABRIC: DISTANCE(KM) TO POPULAR LG STORE
+O14A_9    FABRIC: DISTANCE(KM) TO POPULAR LG STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -5074,7 +5074,7 @@ O14A_9                              FABRIC: DISTANCE(KM) TO POPULAR LG STORE
                               0        .1         1       2.5         5
 
 ----------------------------------------------------------------------------
-O16_9                                FABRIC: LOCATION OF POPULAR FREE MARKET
+O16_9     FABRIC: LOCATION OF POPULAR FREE MARKET
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5106,7 +5106,7 @@ O17_9                               FABRIC: DISTANCE(KM) TO POPULAR FREE MKT
                               0         0         1         2         5
 
 ----------------------------------------------------------------------------
-O17A_9                                 FABRIC: # OF DAYS/WK FREE MARKET OPEN
+O17A_9       FABRIC: # OF DAYS/WK FREE MARKET OPEN
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5124,7 +5124,7 @@ O17A_9                                 FABRIC: # OF DAYS/WK FREE MARKET OPEN
                         1,311  .
 
 ----------------------------------------------------------------------------
-O248_5                               FAST FOOD: OTHER RESTAURANT 3: LOCATION
+O248_5      FAST FOOD: OTHER RESTAURANT 3: LOCATION
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5157,7 +5157,7 @@ O249_5                               FAST FOOD: OTHER RESTAURANT 3: DIST(KM)
                         1,992  .
 
 ----------------------------------------------------------------------------
-O255                                       WHY PEOPLE STOPPED BIKING TO WORK
+O255         WHY PEOPLE STOPPED BIKING TO WORK
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5172,7 +5172,7 @@ O255                                       WHY PEOPLE STOPPED BIKING TO WORK
                         1,847  .
 
 ----------------------------------------------------------------------------
-O46                                 VILL: WAGE/DAY FOR UNSKILLD FARM LABORER
+O46     VILL: WAGE/DAY FOR UNSKILLD FARM LABORER
 ----------------------------------------------------------------------------
 
                   Type: Numeric (float)
@@ -5187,7 +5187,7 @@ O46                                 VILL: WAGE/DAY FOR UNSKILLD FARM LABORER
                               1         4         8        15        20
 
 ----------------------------------------------------------------------------
-O47                                 VILL: FOOD FREE TO UNSKILD FARM LABORER?
+O47    VILL: FOOD FREE TO UNSKILD FARM LABORER?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5203,7 +5203,7 @@ O47                                 VILL: FOOD FREE TO UNSKILD FARM LABORER?
                         1,256  .
 
 ----------------------------------------------------------------------------
-O41                                        WHO OWNS HOMES IN NGHBRHD/VILLAGE
+O41       WHO OWNS HOMES IN NGHBRHD/VILLAGE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5308,7 +5308,7 @@ O8D                                 SUBURB: YR COOP MED INS 1ST AVAIL (YYYY)
                               0         0         0      1968      1984
 
 ----------------------------------------------------------------------------
-O9C                                     SUBURB: LOCATED IN A MODEL TOWNSHIP?
+O9C    SUBURB: LOCATED IN A MODEL TOWNSHIP?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5322,7 +5322,7 @@ O9C                                     SUBURB: LOCATED IN A MODEL TOWNSHIP?
                         1,868  .
 
 ----------------------------------------------------------------------------
-O9D                                          SUBURB: LEVEL OF MODEL TOWNSHIP
+O9D     SUBURB: LEVEL OF MODEL TOWNSHIP
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5338,7 +5338,7 @@ O9D                                          SUBURB: LEVEL OF MODEL TOWNSHIP
                         1,975  .
 
 ----------------------------------------------------------------------------
-O9F                                    SUBURB: AVG PER CAPITA INCOME IN 1994
+O9F     SUBURB: AVG PER CAPITA INCOME IN 1994
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -5353,7 +5353,7 @@ O9F                                    SUBURB: AVG PER CAPITA INCOME IN 1994
                             500       900      1250      1620      3000
 
 ----------------------------------------------------------------------------
-O9G                                    SUBURB: AVG PER CAPITA INCOME IN 1995
+O9G         SUBURB: AVG PER CAPITA INCOME IN 1995
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -5383,7 +5383,7 @@ O9H                                    SUBURB: AVG PER CAPITA INCOME IN 1996
                             670      1200      1750      2350      3800
 
 ----------------------------------------------------------------------------
-O9I                                  VILLAGE: COOPERATIVE MEDICAL INSURANCE?
+O9I  VILLAGE: COOPERATIVE MEDICAL INSURANCE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5397,7 +5397,7 @@ O9I                                  VILLAGE: COOPERATIVE MEDICAL INSURANCE?
                         1,920  .
 
 ----------------------------------------------------------------------------
-O9J                                 VILLAGE: YR COOP MED INS 1ST AVAIL(YYYY)
+O9J   VILLAGE: YR COOP MED INS 1ST AVAIL(YYYY)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -5412,7 +5412,7 @@ O9J                                 VILLAGE: YR COOP MED INS 1ST AVAIL(YYYY)
                            1969      1979      1991      1996      1997
 
 ----------------------------------------------------------------------------
-O7C                                    VILLAGE: LOCATED IN A MODEL TOWNSHIP?
+O7C  VILLAGE: LOCATED IN A MODEL TOWNSHIP?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5487,7 +5487,7 @@ O7H                                   VILLAGE: AVG PER CAPITA INCOME IN 1996
                             400       570       950      1750      2600
 
 ----------------------------------------------------------------------------
-O13_1                                GRAINS: LOCATION OF POPULAR STATE STORE
+O13_1    GRAINS: LOCATION OF POPULAR STATE STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5504,7 +5504,7 @@ O13_1                                GRAINS: LOCATION OF POPULAR STATE STORE
                         1,322  .
 
 ----------------------------------------------------------------------------
-O13_2                               COOKING OIL:LOCATION OF POPULAR ST-STORE
+O13_2   COOKING OIL:LOCATION OF POPULAR ST-STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5538,7 +5538,7 @@ O13_3                               VEGETABLES: LOCATION OF POPULAR ST-STORE
                         1,462  .
 
 ----------------------------------------------------------------------------
-O13_4                               MEAT/POULTRY:LOCATION OF POPULAR ST-STOR
+O13_4      MEAT/POULTRY:LOCATION OF POPULAR ST-STOR
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5626,7 +5626,7 @@ O13_8                                BEAN CURD: LOCATION OF POPULAR ST-STORE
                         1,462  .
 
 ----------------------------------------------------------------------------
-O13_9                                FABRIC: LOCATION OF POPULAR STATE STORE
+O13_9   FABRIC: LOCATION OF POPULAR STATE STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5662,7 +5662,7 @@ O13_10                                FUELS: LOCATION OF POPULAR STATE STORE
                         1,374  .
 
 ----------------------------------------------------------------------------
-O14_1                               GRAINS: DISTANCE(KM) TO POPULAR ST-STORE
+O14_1          GRAINS: DISTANCE(KM) TO POPULAR ST-STORE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -5812,7 +5812,7 @@ O14_10                               FUELS: DISTANCE(KM) TO POPULAR ST-STORE
                               0        .3         1         2         6
 
 ----------------------------------------------------------------------------
-O90                                     # OF CLINICS IN NEIGHBORHOOD/VILLAGE
+O90  # OF CLINICS IN NEIGHBORHOOD/VILLAGE
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5833,7 +5833,7 @@ O90                                     # OF CLINICS IN NEIGHBORHOOD/VILLAGE
                         1,836  .
 
 ----------------------------------------------------------------------------
-O67_1                                 PRIVATE CHILDCARE (AGE<3Y):IN VILLAGE?
+O67_1       PRIVATE CHILDCARE (AGE<3Y):IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5847,7 +5847,7 @@ O67_1                                 PRIVATE CHILDCARE (AGE<3Y):IN VILLAGE?
                         1,463  .
 
 ----------------------------------------------------------------------------
-O67_2                               PRIVATE CHILDCARE (AGE 3-6Y):IN VILLAGE?
+O67_2    PRIVATE CHILDCARE (AGE 3-6Y):IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -5861,7 +5861,7 @@ O67_2                               PRIVATE CHILDCARE (AGE 3-6Y):IN VILLAGE?
                         1,462  .
 
 ----------------------------------------------------------------------------
-O68_1                               PRIVATE CHILDCARE (AGE<3Y): DISTANCE(KM)
+O68_1      PRIVATE CHILDCARE (AGE<3Y): DISTANCE(KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -5891,7 +5891,7 @@ O68_2                                 PRIVATE CHILDCARE (AGE 3-6Y): DIST(KM)
                             -9.9        .1         1         3        13
 
 ----------------------------------------------------------------------------
-O69_1                                  PRIVATE CHILDCARE (AGE<3Y): FEE/MONTH
+O69_1       PRIVATE CHILDCARE (AGE<3Y): FEE/MONTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -5906,7 +5906,7 @@ O69_1                                  PRIVATE CHILDCARE (AGE<3Y): FEE/MONTH
                            -99.9         8        30        60       100
 
 ----------------------------------------------------------------------------
-O69_2                                PRIVATE CHILDCARE (AGE 3-6Y): FEE/MONTH
+O69_2   PRIVATE CHILDCARE (AGE 3-6Y): FEE/MONTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -5921,7 +5921,7 @@ O69_2                                PRIVATE CHILDCARE (AGE 3-6Y): FEE/MONTH
                             -99         6        24        50        90
 
 ----------------------------------------------------------------------------
-O70_1                                 PUBLIC CHILDCARE (AGE<3Y): IN VILLAGE?
+O70_1   PUBLIC CHILDCARE (AGE<3Y): IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6009,7 +6009,7 @@ O72_2                                 PUBLIC CHILDCARE (AGE 3-6Y): FEE/MONTH
                               0        15        30        60       100
 
 ----------------------------------------------------------------------------
-O73_1                               WORKUNIT CHILDCARE (AGE<3Y): IN VILLAGE?
+O73_1   WORKUNIT CHILDCARE (AGE<3Y): IN VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6097,7 +6097,7 @@ O75_2                               WORKUNIT CHILDCARE (AGE 3-6Y): FEE/MONTH
                              -99      13.5        30        50        90
 
 ----------------------------------------------------------------------------
-O78                                   PRE-SCH(AGE 5-6Y)IN PRI-SCH: FEE/MONTH
+O78    PRE-SCH(AGE 5-6Y)IN PRI-SCH: FEE/MONTH
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -6142,7 +6142,7 @@ O9E                                                         TYPE(S) OF MODEL
                               1         2         5       123       321
 
 ----------------------------------------------------------------------------
-O1                                     AREA OF NEIGHBORHOOD/VILLAGE (SQ. KM)
+O1        AREA OF NEIGHBORHOOD/VILLAGE (SQ. KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6157,7 +6157,7 @@ O1                                     AREA OF NEIGHBORHOOD/VILLAGE (SQ. KM)
                             .07      .825         2      5.75        24
 
 ----------------------------------------------------------------------------
-O3                                                     AREA OF CITY (SQ. KM)
+O3    AREA OF CITY (SQ. KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6172,7 +6172,7 @@ O3                                                     AREA OF CITY (SQ. KM)
                            12.5        37       155    1305.8      8227
 
 ----------------------------------------------------------------------------
-O8B                                                    AREA OF TOWN (SQ. KM)
+O8B        AREA OF TOWN (SQ. KM)
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6187,7 +6187,7 @@ O8B                                                    AREA OF TOWN (SQ. KM)
                               3       5.6        15        30       103
 
 ----------------------------------------------------------------------------
-O9B                                 HOW MANY SURNAME ARE THERE IN THE VILLAG
+O9B      HOW MANY SURNAME ARE THERE IN THE VILLAG
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6204,7 +6204,7 @@ O9B                                 HOW MANY SURNAME ARE THERE IN THE VILLAG
                         1,946  .
 
 ----------------------------------------------------------------------------
-O9A                                   DISTANCE FROM VILLAGE TO TOWNSHIP SEAT
+O9A    DISTANCE FROM VILLAGE TO TOWNSHIP SEAT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6219,7 +6219,7 @@ O9A                                   DISTANCE FROM VILLAGE TO TOWNSHIP SEAT
                              .5         1       1.5       2.5         4
 
 ----------------------------------------------------------------------------
-O5A                                 HOW MANN SURNAME ARE THERE IN THE VILLAG
+O5A       HOW MANN SURNAME ARE THERE IN THE VILLAG
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6234,7 +6234,7 @@ O5A                                 HOW MANN SURNAME ARE THERE IN THE VILLAG
                         1,923  .
 
 ----------------------------------------------------------------------------
-O5                                    DISTANCE FROM VILLAGE TO TOWNSHIP SEAT
+O5      DISTANCE FROM VILLAGE TO TOWNSHIP SEAT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6249,7 +6249,7 @@ O5                                    DISTANCE FROM VILLAGE TO TOWNSHIP SEAT
                               0        .5       1.5         3         5
 
 ----------------------------------------------------------------------------
-O88_1                               DO PEOPLE IN THIS V/T/N RECEIVE RATION C
+O88_1     DO PEOPLE IN THIS V/T/N RECEIVE RATION C
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6458,7 +6458,7 @@ O89_8                                  HOW MUCH MONEY WOULD THEY GET FOR IT?
                         2,012  .
 
 ----------------------------------------------------------------------------
-O4                                       IS THE CITY THE PROVINCIAL CAPITAL?
+O4    IS THE CITY THE PROVINCIAL CAPITAL?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6472,7 +6472,7 @@ O4                                       IS THE CITY THE PROVINCIAL CAPITAL?
                         1,868  .
 
 ----------------------------------------------------------------------------
-O11                                 DISTANCE FROM CITY TO THE PROVINCIAL CAP
+O11   DISTANCE FROM CITY TO THE PROVINCIAL CAP
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6501,7 +6501,7 @@ O4A                                             OLD REVOLUTIONARY BASE AREA?
                         1,964  .
 
 ----------------------------------------------------------------------------
-O8                                  DISTANCE FROM TOWN TO THE PROVINCIAL CAP
+O8   DISTANCE FROM TOWN TO THE PROVINCIAL CAP
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6530,7 +6530,7 @@ O8E                                              COUNTY IS A POVERTY COUNTY?
                         1,965  .
 
 ----------------------------------------------------------------------------
-O9                                  DISTANCE FROM VILLAGE TO NEAREST URBAN C
+O9     DISTANCE FROM VILLAGE TO NEAREST URBAN C
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6545,7 +6545,7 @@ O9                                  DISTANCE FROM VILLAGE TO NEAREST URBAN C
                              .3       1.5         5        20        30
 
 ----------------------------------------------------------------------------
-O10                                 DISTANCE FROM VILLAGE TO PROVINCIAL CAPI
+O10   DISTANCE FROM VILLAGE TO PROVINCIAL CAPI
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6560,7 +6560,7 @@ O10                                 DISTANCE FROM VILLAGE TO PROVINCIAL CAPI
                             2.5        28    175.25       280       474
 
 ----------------------------------------------------------------------------
-O6                                      DISTANCE FROM VILLAGE TO COUNTY SEAT
+O6    DISTANCE FROM VILLAGE TO COUNTY SEAT
 ----------------------------------------------------------------------------
 
                   Type: Numeric (double)
@@ -6575,7 +6575,7 @@ O6                                      DISTANCE FROM VILLAGE TO COUNTY SEAT
                               2         5     12.25        25        39
 
 ----------------------------------------------------------------------------
-O7                                  DISTANCE FROM VILLAGE TO PROVINCIAL CAPI
+O7    DISTANCE FROM VILLAGE TO PROVINCIAL CAPI
 ----------------------------------------------------------------------------
 
                   Type: Numeric (float)
@@ -6590,7 +6590,7 @@ O7                                  DISTANCE FROM VILLAGE TO PROVINCIAL CAPI
                              50       140       240       350       427
 
 ----------------------------------------------------------------------------
-O7A                                           VILLAGE IS A MINORITY VILLAGE?
+O7A        VILLAGE IS A MINORITY VILLAGE?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6618,7 +6618,7 @@ O7B                                             LOCATED IN A POVERTY COUNTY?
                         1,909  .
 
 ----------------------------------------------------------------------------
-O53A                                  DO PROFITS SUPPORT WELFARE ACTIVITIES?
+O53A      DO PROFITS SUPPORT WELFARE ACTIVITIES?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6632,7 +6632,7 @@ O53A                                  DO PROFITS SUPPORT WELFARE ACTIVITIES?
                         1,863  .
 
 ----------------------------------------------------------------------------
-O55                                       HOM MANY HOUSEHOLDS SELF-EMPLOYED?
+O55     HOM MANY HOUSEHOLDS SELF-EMPLOYED?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (int)
@@ -6662,7 +6662,7 @@ O58                                        PERCENT OF COMMUNITY LAND IS POOR
                               0         2        20        35        50
 
 ----------------------------------------------------------------------------
-O59                                 TOWN LEADERS ATTEND TOWM/COUNTY MEETINGS
+O59      TOWN LEADERS ATTEND TOWM/COUNTY MEETINGS
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6677,7 +6677,7 @@ O59                                 TOWN LEADERS ATTEND TOWM/COUNTY MEETINGS
                               1       1.5         3       4.5         9
 
 ----------------------------------------------------------------------------
-O8CB_9                                   SUB/VILL: UEMI: PASSWAY MODEL, HAS?
+O8CB_9  SUB/VILL: UEMI: PASSWAY MODEL, HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6692,7 +6692,7 @@ O8CB_9                                   SUB/VILL: UEMI: PASSWAY MODEL, HAS?
                         1,580  .
 
 ----------------------------------------------------------------------------
-O8CB_10                                    SUB/VILL: UEMI: BLOCK MODEL, HAS?
+O8CB_10   SUB/VILL: UEMI: BLOCK MODEL, HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
@@ -6707,7 +6707,7 @@ O8CB_10                                    SUB/VILL: UEMI: BLOCK MODEL, HAS?
                         1,580  .
 
 ----------------------------------------------------------------------------
-O8CB_11                            SUB/VILL: UEMI: CATAST. DISEASE INS, HAS?
+O8CB_11    SUB/VILL: UEMI: CATAST. DISEASE INS, HAS?
 ----------------------------------------------------------------------------
 
                   Type: Numeric (byte)
